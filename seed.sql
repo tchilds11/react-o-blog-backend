@@ -1,0 +1,1 @@
+INSERT INTO blog_post (topic, slug, comment ) VALUES ('Sports', 'sports_sports', 'playing sports is when i feel most comfortable'), ('Movies', 'movies_movies', 'movies are my favorite getaway')
